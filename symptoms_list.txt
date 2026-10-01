@@ -1,0 +1,377 @@
+﻿Abdominal Distention|abdominal_distention
+Abnormal Appearing Skin|abnormal_appearing_skin
+Abnormal Appearing Tongue|abnormal_appearing_tongue
+Abnormal Breathing Sounds|abnormal_breathing_sounds
+Abnormal Involuntary Movements|abnormal_involuntary_movements
+Abnormal Movement Of Eyelid|abnormal_movement_of_eyelid
+Abnormal Size Or Shape Of Ear|abnormal_size_or_shape_of_ear
+Absence Of Menstruation|absence_of_menstruation
+Abusing Alcohol|abusing_alcohol
+Ache All Over|ache_all_over
+Acne Or Pimples|acne_or_pimples
+Allergic Reaction|allergic_reaction
+Ankle Pain|ankle_pain
+Ankle Stiffness Or Tightness|ankle_stiffness_or_tightness
+Ankle Swelling|ankle_swelling
+Ankle Weakness|ankle_weakness
+Antisocial Behavior|antisocial_behavior
+Anxiety And Nervousness|anxiety_and_nervousness
+Apnea|apnea
+Arm Cramps Or Spasms|arm_cramps_or_spasms
+Arm Lump Or Mass|arm_lump_or_mass
+Arm Pain|arm_pain
+Arm Stiffness Or Tightness|arm_stiffness_or_tightness
+Arm Swelling|arm_swelling
+Arm Weakness|arm_weakness
+Back Cramps Or Spasms|back_cramps_or_spasms
+Back Mass Or Lump|back_mass_or_lump
+Back Pain|back_pain
+Back Stiffness Or Tightness|back_stiffness_or_tightness
+Back Swelling|back_swelling
+Back Weakness|back_weakness
+Bedwetting|bedwetting
+Bladder Mass|bladder_mass
+Bleeding From Ear|bleeding_from_ear
+Bleeding From Eye|bleeding_from_eye
+Bleeding Gums|bleeding_gums
+Bleeding In Mouth|bleeding_in_mouth
+Bleeding Or Discharge From Nipple|bleeding_or_discharge_from_nipple
+Blindness|blindness
+Blood Clots During Menstrual Periods|blood_clots_during_menstrual_periods
+Blood In Stool|blood_in_stool
+Blood In Urine|blood_in_urine
+Bones Are Painful|bones_are_painful
+Bowlegged Or Knock-Kneed|bowlegged_or_knock-kneed
+Breathing Fast|breathing_fast
+Bumps On Penis|bumps_on_penis
+Burning Abdominal Pain|burning_abdominal_pain
+Burning Chest Pain|burning_chest_pain
+Change In Skin Mole Size Or Color|change_in_skin_mole_size_or_color
+Changes In Stool Appearance|changes_in_stool_appearance
+Chest Tightness|chest_tightness
+Chills|chills
+Cloudy Eye|cloudy_eye
+Congestion In Chest|congestion_in_chest
+Constipation|constipation
+Coryza|coryza
+Cough|cough
+Coughing Up Sputum|coughing_up_sputum
+Cramps And Spasms|cramps_and_spasms
+Cross-Eyed|cross-eyed
+Decreased Appetite|decreased_appetite
+Decreased Heart Rate|decreased_heart_rate
+Delusions Or Hallucinations|delusions_or_hallucinations
+Depression|depression
+Depressive Or Psychotic Symptoms|depressive_or_psychotic_symptoms
+Diaper Rash|diaper_rash
+Diarrhea|diarrhea
+Difficulty Breathing|difficulty_breathing
+Difficulty Eating|difficulty_eating
+Difficulty In Swallowing|difficulty_in_swallowing
+Difficulty Speaking|difficulty_speaking
+Diminished Hearing|diminished_hearing
+Diminished Vision|diminished_vision
+Discharge In Stools|discharge_in_stools
+Disturbance Of Memory|disturbance_of_memory
+Disturbance Of Smell Or Taste|disturbance_of_smell_or_taste
+Dizziness|dizziness
+Double Vision|double_vision
+Drainage In Throat|drainage_in_throat
+Drug Abuse|drug_abuse
+Dry Lips|dry_lips
+Dry Or Flaky Scalp|dry_or_flaky_scalp
+Ear Pain|ear_pain
+Early Or Late Onset Of Menopause|early_or_late_onset_of_menopause
+Elbow Cramps Or Spasms|elbow_cramps_or_spasms
+Elbow Lump Or Mass|elbow_lump_or_mass
+Elbow Pain|elbow_pain
+Elbow Stiffness Or Tightness|elbow_stiffness_or_tightness
+Elbow Swelling|elbow_swelling
+Elbow Weakness|elbow_weakness
+Emotional Symptoms|emotional_symptoms
+Excessive Anger|excessive_anger
+Excessive Appetite|excessive_appetite
+Excessive Growth|excessive_growth
+Excessive Urination At Night|excessive_urination_at_night
+Eye Burns Or Stings|eye_burns_or_stings
+Eye Deviation|eye_deviation
+Eye Moves Abnormally|eye_moves_abnormally
+Eye Redness|eye_redness
+Eye Strain|eye_strain
+Eyelid Lesion Or Rash|eyelid_lesion_or_rash
+Eyelid Retracted|eyelid_retracted
+Eyelid Swelling|eyelid_swelling
+Facial Pain|facial_pain
+Fainting|fainting
+Fatigue|fatigue
+Fears And Phobias|fears_and_phobias
+Feeling Cold|feeling_cold
+Feeling Hot|feeling_hot
+Feeling Hot And Cold|feeling_hot_and_cold
+Feeling Ill|feeling_ill
+Feet Turned In|feet_turned_in
+Fever|fever
+Flatulence|flatulence
+Flu-Like Syndrome|flu-like_syndrome
+Fluid In Ear|fluid_in_ear
+Fluid Retention|fluid_retention
+Flushing|flushing
+Focal Weakness|focal_weakness
+Foot Or Toe Cramps Or Spasms|foot_or_toe_cramps_or_spasms
+Foot Or Toe Lump Or Mass|foot_or_toe_lump_or_mass
+Foot Or Toe Pain|foot_or_toe_pain
+Foot Or Toe Stiffness Or Tightness|foot_or_toe_stiffness_or_tightness
+Foot Or Toe Swelling|foot_or_toe_swelling
+Foot Or Toe Weakness|foot_or_toe_weakness
+Foreign Body Sensation In Eye|foreign_body_sensation_in_eye
+Frequent Menstruation|frequent_menstruation
+Frequent Urination|frequent_urination
+Frontal Headache|frontal_headache
+Groin Mass|groin_mass
+Groin Pain|groin_pain
+Gum Pain|gum_pain
+Hand Or Finger Cramps Or Spasms|hand_or_finger_cramps_or_spasms
+Hand Or Finger Lump Or Mass|hand_or_finger_lump_or_mass
+Hand Or Finger Pain|hand_or_finger_pain
+Hand Or Finger Stiffness Or Tightness|hand_or_finger_stiffness_or_tightness
+Hand Or Finger Swelling|hand_or_finger_swelling
+Hand Or Finger Weakness|hand_or_finger_weakness
+Headache|headache
+Heartburn|heartburn
+Heavy Menstrual Flow|heavy_menstrual_flow
+Hemoptysis|hemoptysis
+Hesitancy|hesitancy
+Hip Lump Or Mass|hip_lump_or_mass
+Hip Pain|hip_pain
+Hip Stiffness Or Tightness|hip_stiffness_or_tightness
+Hip Swelling|hip_swelling
+Hip Weakness|hip_weakness
+Hoarse Voice|hoarse_voice
+Hostile Behavior|hostile_behavior
+Hot Flashes|hot_flashes
+Hurts To Breath|hurts_to_breath
+Hysterical Behavior|hysterical_behavior
+Impotence|impotence
+Incontinence Of Stool|incontinence_of_stool
+Increased Heart Rate|increased_heart_rate
+Infant Feeding Problem|infant_feeding_problem
+Infant Spitting Up|infant_spitting_up
+Infertility|infertility
+Infrequent Menstruation|infrequent_menstruation
+Insomnia|insomnia
+Intermenstrual Bleeding|intermenstrual_bleeding
+Involuntary Urination|involuntary_urination
+Irregular Appearing Nails|irregular_appearing_nails
+Irregular Appearing Scalp|irregular_appearing_scalp
+Irregular Belly Button|irregular_belly_button
+Irregular Heartbeat|irregular_heartbeat
+Irritable Infant|irritable_infant
+Itchiness Of Eye|itchiness_of_eye
+Itching Of Scrotum|itching_of_scrotum
+Itching Of Skin|itching_of_skin
+Itching Of The Anus|itching_of_the_anus
+Itchy Ear(S)|itchy_ear(s)
+Itchy Eyelid|itchy_eyelid
+Itchy Scalp|itchy_scalp
+Jaundice|jaundice
+Jaw Pain|jaw_pain
+Jaw Swelling|jaw_swelling
+Joint Pain|joint_pain
+Joint Stiffness Or Tightness|joint_stiffness_or_tightness
+Joint Swelling|joint_swelling
+Kidney Mass|kidney_mass
+Knee Cramps Or Spasms|knee_cramps_or_spasms
+Knee Lump Or Mass|knee_lump_or_mass
+Knee Pain|knee_pain
+Knee Stiffness Or Tightness|knee_stiffness_or_tightness
+Knee Swelling|knee_swelling
+Knee Weakness|knee_weakness
+Lack Of Growth|lack_of_growth
+Lacrimation|lacrimation
+Leg Cramps Or Spasms|leg_cramps_or_spasms
+Leg Lump Or Mass|leg_lump_or_mass
+Leg Pain|leg_pain
+Leg Stiffness Or Tightness|leg_stiffness_or_tightness
+Leg Swelling|leg_swelling
+Leg Weakness|leg_weakness
+Lip Sore|lip_sore
+Lip Swelling|lip_swelling
+Long Menstrual Periods|long_menstrual_periods
+Loss Of Sensation|loss_of_sensation
+Loss Of Sex Drive|loss_of_sex_drive
+Low Back Cramps Or Spasms|low_back_cramps_or_spasms
+Low Back Pain|low_back_pain
+Low Back Stiffness Or Tightness|low_back_stiffness_or_tightness
+Low Back Swelling|low_back_swelling
+Low Back Weakness|low_back_weakness
+Low Self-Esteem|low_self-esteem
+Low Urine Output|low_urine_output
+Lower Abdominal Pain|lower_abdominal_pain
+Lower Body Pain|lower_body_pain
+Lump In Throat|lump_in_throat
+Lump Or Mass Of Breast|lump_or_mass_of_breast
+Lump Over Jaw|lump_over_jaw
+Lymphedema|lymphedema
+Mass In Scrotum|mass_in_scrotum
+Mass On Ear|mass_on_ear
+Mass On Eyelid|mass_on_eyelid
+Mass On Vulva|mass_on_vulva
+Mass Or Swelling Around The Anus|mass_or_swelling_around_the_anus
+Melena|melena
+Mouth Dryness|mouth_dryness
+Mouth Pain|mouth_pain
+Mouth Ulcer|mouth_ulcer
+Muscle Cramps, Contractures, Or Spasms|muscle_cramps,_contractures,_or_spasms
+Muscle Pain|muscle_pain
+Muscle Stiffness Or Tightness|muscle_stiffness_or_tightness
+Muscle Swelling|muscle_swelling
+Muscle Weakness|muscle_weakness
+Nailbiting|nailbiting
+Nasal Congestion|nasal_congestion
+Nausea|nausea
+Neck Cramps Or Spasms|neck_cramps_or_spasms
+Neck Mass|neck_mass
+Neck Pain|neck_pain
+Neck Stiffness Or Tightness|neck_stiffness_or_tightness
+Neck Swelling|neck_swelling
+Neck Weakness|neck_weakness
+Nightmares|nightmares
+Nose Deformity|nose_deformity
+Nosebleed|nosebleed
+Obsessions And Compulsions|obsessions_and_compulsions
+Pain During Intercourse|pain_during_intercourse
+Pain During Pregnancy|pain_during_pregnancy
+Pain In Eye|pain_in_eye
+Pain In Gums|pain_in_gums
+Pain In Testicles|pain_in_testicles
+Pain Of The Anus|pain_of_the_anus
+Pain Or Soreness Of Breast|pain_or_soreness_of_breast
+Painful Menstruation|painful_menstruation
+Painful Sinuses|painful_sinuses
+Painful Urination|painful_urination
+Pallor|pallor
+Palpitations|palpitations
+Paresthesia|paresthesia
+Pelvic Pain|pelvic_pain
+Pelvic Pressure|pelvic_pressure
+Penile Discharge|penile_discharge
+Penis Pain|penis_pain
+Penis Redness|penis_redness
+Peripheral Edema|peripheral_edema
+Plugged Feeling In Ear|plugged_feeling_in_ear
+Polyuria|polyuria
+Poor Circulation|poor_circulation
+Postpartum Problems Of The Breast|postpartum_problems_of_the_breast
+Posture Problems|posture_problems
+Premature Ejaculation|premature_ejaculation
+Premenstrual Tension Or Irritability|premenstrual_tension_or_irritability
+Problems During Pregnancy|problems_during_pregnancy
+Problems With Movement|problems_with_movement
+Problems With Orgasm|problems_with_orgasm
+Problems With Shape Or Size Of Breast|problems_with_shape_or_size_of_breast
+Pulling At Ears|pulling_at_ears
+Pupils Unequal|pupils_unequal
+Pus Draining From Ear|pus_draining_from_ear
+Pus In Sputum|pus_in_sputum
+Pus In Urine|pus_in_urine
+Recent Pregnancy|recent_pregnancy
+Recent Weight Loss|recent_weight_loss
+Rectal Bleeding|rectal_bleeding
+Redness In Ear|redness_in_ear
+Redness In Or Around Nose|redness_in_or_around_nose
+Regurgitation|regurgitation
+Regurgitation.1|regurgitation.1
+Restlessness|restlessness
+Retention Of Urine|retention_of_urine
+Rib Pain|rib_pain
+Ringing In Ear|ringing_in_ear
+Scanty Menstrual Flow|scanty_menstrual_flow
+Seizures|seizures
+Sharp Abdominal Pain|sharp_abdominal_pain
+Sharp Chest Pain|sharp_chest_pain
+Shortness Of Breath|shortness_of_breath
+Shoulder Cramps Or Spasms|shoulder_cramps_or_spasms
+Shoulder Lump Or Mass|shoulder_lump_or_mass
+Shoulder Pain|shoulder_pain
+Shoulder Stiffness Or Tightness|shoulder_stiffness_or_tightness
+Shoulder Swelling|shoulder_swelling
+Shoulder Weakness|shoulder_weakness
+Side Pain|side_pain
+Sinus Congestion|sinus_congestion
+Skin Dryness, Peeling, Scaliness, Or Roughness|skin_dryness,_peeling,_scaliness,_or_roughness
+Skin Growth|skin_growth
+Skin Irritation|skin_irritation
+Skin Lesion|skin_lesion
+Skin Moles|skin_moles
+Skin Oiliness|skin_oiliness
+Skin On Arm Or Hand Looks Infected|skin_on_arm_or_hand_looks_infected
+Skin On Head Or Neck Looks Infected|skin_on_head_or_neck_looks_infected
+Skin On Leg Or Foot Looks Infected|skin_on_leg_or_foot_looks_infected
+Skin Pain|skin_pain
+Skin Rash|skin_rash
+Skin Swelling|skin_swelling
+Sleepiness|sleepiness
+Sleepwalking|sleepwalking
+Slurring Words|slurring_words
+Smoking Problems|smoking_problems
+Sneezing|sneezing
+Sore In Nose|sore_in_nose
+Sore Throat|sore_throat
+Spots Or Clouds In Vision|spots_or_clouds_in_vision
+Spotting Or Bleeding During Pregnancy|spotting_or_bleeding_during_pregnancy
+Stiffness All Over|stiffness_all_over
+Stomach Bloating|stomach_bloating
+Stuttering Or Stammering|stuttering_or_stammering
+Suprapubic Pain|suprapubic_pain
+Sweating|sweating
+Swelling Of Scrotum|swelling_of_scrotum
+Swollen Abdomen|swollen_abdomen
+Swollen Eye|swollen_eye
+Swollen Lymph Nodes|swollen_lymph_nodes
+Swollen Or Red Tonsils|swollen_or_red_tonsils
+Swollen Tongue|swollen_tongue
+Symptoms Of Bladder|symptoms_of_bladder
+Symptoms Of Eye|symptoms_of_eye
+Symptoms Of Infants|symptoms_of_infants
+Symptoms Of Prostate|symptoms_of_prostate
+Symptoms Of The Face|symptoms_of_the_face
+Symptoms Of The Kidneys|symptoms_of_the_kidneys
+Symptoms Of The Scrotum And Testes|symptoms_of_the_scrotum_and_testes
+Temper Problems|temper_problems
+Thirst|thirst
+Throat Feels Tight|throat_feels_tight
+Throat Irritation|throat_irritation
+Throat Redness|throat_redness
+Throat Swelling|throat_swelling
+Tongue Bleeding|tongue_bleeding
+Tongue Lesions|tongue_lesions
+Tongue Pain|tongue_pain
+Too Little Hair|too_little_hair
+Toothache|toothache
+Underweight|underweight
+Unpredictable Menstruation|unpredictable_menstruation
+Unusual Color Or Odor To Urine|unusual_color_or_odor_to_urine
+Unwanted Hair|unwanted_hair
+Upper Abdominal Pain|upper_abdominal_pain
+Uterine Contractions|uterine_contractions
+Vaginal Bleeding After Menopause|vaginal_bleeding_after_menopause
+Vaginal Discharge|vaginal_discharge
+Vaginal Dryness|vaginal_dryness
+Vaginal Itching|vaginal_itching
+Vaginal Pain|vaginal_pain
+Vaginal Redness|vaginal_redness
+Vomiting|vomiting
+Vomiting Blood|vomiting_blood
+Vulvar Irritation|vulvar_irritation
+Vulvar Sore|vulvar_sore
+Warts|warts
+Weakness|weakness
+Weight Gain|weight_gain
+Wheezing|wheezing
+White Discharge From Eye|white_discharge_from_eye
+Wrinkles On Skin|wrinkles_on_skin
+Wrist Lump Or Mass|wrist_lump_or_mass
+Wrist Pain|wrist_pain
+Wrist Stiffness Or Tightness|wrist_stiffness_or_tightness
+Wrist Swelling|wrist_swelling
+Wrist Weakness|wrist_weakness
