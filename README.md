@@ -506,74 +506,38 @@ the model resource for inference.
 
 ### 🩺 1. Disease Risk Assessment
 
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![Disease Risk Assessment](screenshots/01-disease-risk-assessment.png)
-
 ------------------------------------------------------------------------
 
 ### 💬 2. Free-Text Symptom Interpretation
 
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![Free-Text Symptom
-Interpretation](screenshots/02-free-text-symptom-analysis.png)
 
 ------------------------------------------------------------------------
 
 ### 🎯 3. Differential Diagnosis
 
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![Differential Diagnosis](screenshots/03-differential-diagnosis.png)
 
 ------------------------------------------------------------------------
 
 ### 🧠 4. Explainable AI / XAI
 
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![Explainable AI](screenshots/04-xai-analysis.png)
 
 ------------------------------------------------------------------------
 
 ### 📂 5. EHR Batch Screening
 
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![EHR Batch Screening](screenshots/05-ehr-batch-screening.png)
-
 ------------------------------------------------------------------------
 
 ### 📊 6. Model Analytics & QA
-
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![Model Analytics](screenshots/06-model-analytics.png)
 
 ------------------------------------------------------------------------
 
 ### 📋 7. Doctor Feedback Registry
 
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![Doctor Feedback Registry](screenshots/07-doctor-feedback.png)
 
 ------------------------------------------------------------------------
 
 ### ℹ️ 8. PRD Specifications
 
-```{=html}
-<!-- Replace the placeholder with your screenshot -->
-```
-![PRD Specifications](screenshots/08-prd-specifications.png)
 
 ------------------------------------------------------------------------
 
